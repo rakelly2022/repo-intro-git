@@ -1,1 +1,13 @@
-Teste
+git init - criar o repositorio local
+
+git remote add origin "Link do github"
+
+git add .
+
+git commit -m "mensagem de commit"
+
+git push origin main
+
+agora estamos na branch nova 
+
+git checkout -b dev
